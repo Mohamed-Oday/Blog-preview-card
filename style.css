@@ -67,6 +67,7 @@ h1.title {
   cursor: pointer;
   font-size: 25px;
   margin-top: 5px;
+  transition: color 0.3s;
 }
 
 p.description {
